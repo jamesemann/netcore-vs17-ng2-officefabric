@@ -10,13 +10,23 @@ var AppComponent = (function () {
     function AppComponent() {
         this.name = 'Angular';
     }
+    AppComponent.prototype.ngAfterViewInit = function () {
+        // ...
+        var ButtonElements = document.querySelectorAll(".ms-Button");
+        for (var i = 0; i < ButtonElements.length; i++) {
+            new fabric["Button"](ButtonElements[i], function () {
+                alert("You clicked a New User button");
+            });
+        }
+    };
     return AppComponent;
 }());
 AppComponent = __decorate([
     core_1.Component({
         selector: 'my-app',
-        template: "<h1>Hello {{name}}</h1>",
+        template: "<button class=\"ms-Button\">\n          <span class=\"ms-Button-label\">Create Account</span>\n      </button>",
     })
 ], AppComponent);
 exports.AppComponent = AppComponent;
+//export class AppComponent  { name = 'Angular'; }
 //# sourceMappingURL=app.component.js.map
