@@ -1,0 +1,9 @@
+C:\projects\github\netcore-vs17-ng2-officefabric\ngquickstart\bin\Debug\netcoreapp1.1\ngquickstart.deps.json
+C:\projects\github\netcore-vs17-ng2-officefabric\ngquickstart\bin\Debug\netcoreapp1.1\ngquickstart.runtimeconfig.json
+C:\projects\github\netcore-vs17-ng2-officefabric\ngquickstart\bin\Debug\netcoreapp1.1\ngquickstart.runtimeconfig.dev.json
+C:\projects\github\netcore-vs17-ng2-officefabric\ngquickstart\bin\Debug\netcoreapp1.1\ngquickstart.dll
+C:\projects\github\netcore-vs17-ng2-officefabric\ngquickstart\bin\Debug\netcoreapp1.1\ngquickstart.pdb
+C:\projects\github\netcore-vs17-ng2-officefabric\ngquickstart\obj\Debug\netcoreapp1.1\ngquickstart.csprojResolveAssemblyReference.cache
+C:\projects\github\netcore-vs17-ng2-officefabric\ngquickstart\obj\Debug\netcoreapp1.1\ngquickstart.AssemblyInfo.cs
+C:\projects\github\netcore-vs17-ng2-officefabric\ngquickstart\obj\Debug\netcoreapp1.1\ngquickstart.dll
+C:\projects\github\netcore-vs17-ng2-officefabric\ngquickstart\obj\Debug\netcoreapp1.1\ngquickstart.pdb
